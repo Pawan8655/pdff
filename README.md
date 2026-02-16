@@ -1,20 +1,66 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+ HTMLVIEWR.ONLINE
 
-# Run and deploy your AI Studio app
+A fast, lightweight and user-friendly HTML viewer and editor web app.
+HTMLVIEWR.ONLINE** allows users to write, preview, and test HTML code instantly in the browser.
+ 🚀 Features
 
-This contains everything you need to run your app locally.
+* Live HTML preview
+* Clean and responsive interface
+* Fast loading performance
+* Mobile-friendly design
+* No login required
+* SEO optimized structure
+* AdSense friendly layout
 
-View your app in AI Studio: https://ai.studio/apps/drive/1mBbtY0LvM8QjPw1Cer0b7zRubjQYJ0Eg
+ 📦 Installation
 
-## Run Locally
+ Prerequisites
 
-**Prerequisites:**  Node.js
+* Node.js (latest version recommended)
+* npm or yarn
+
+ Setup
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+
+2. Install dependencies:
+
+   npm install
+
+3. Run the development server:
+
+   npm run dev
+
+4. Open your browser and visit:
+
+   http://localhost:3000
+
+🌐 Deployment
+
+You can deploy this project on platforms like:
+
+* Vercel
+* Netlify
+* GitHub Pages
+
+Simply connect your repository and deploy.
+
+ 🛠 Tech Stack
+
+* HTML
+* CSS
+* JavaScript / TypeScript
+* Node.js
+
+ 📄 License
+
+This project is licensed under the MIT License.
+
+ 🤝 Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+
+
+HTMLVIEWR.ONLINE — Simple. Fast. Powerful HTML preview.
+
